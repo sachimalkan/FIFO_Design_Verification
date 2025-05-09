@@ -1,5 +1,4 @@
-//Note that this is a sample code for you to understand system verilog
-//You could try this code on VCS first to see how verification works.
+
 
 `timescale 1ns/100ps
 
