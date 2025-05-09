@@ -1,6 +1,4 @@
-// Kaelyn Cho
-// lab 7: asynchronous fifo
-// https://vlsiverify.com/verilog/verilog-codes/synchronous-fifo/
+
 
 module sync_fifo #(parameter DATA_WIDTH=8, parameter DEPTH=16) (
     input   logic   clk,
